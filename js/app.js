@@ -37,7 +37,7 @@ const addResults = (sResults) => {
         </h3>
         <a href="${url}" class="cardLink" target="_blank">${url}</a><br>
         <span class="cardSnippet">${result.snippet}</span>
-       </div>`
+      </div>`
     );
   });
 };
